@@ -1,0 +1,12 @@
+streamlit
+plotly
+pandas
+openpyxl
+requests
+ucimlrepo
+matplotlib
+seaborn
+scikit-learn
+numpy
+
+
