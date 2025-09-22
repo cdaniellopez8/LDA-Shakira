@@ -1,4 +1,5 @@
 song,year,dominant_topic,nombre_topic,dominant_prob,Topic_1,Topic_2,Topic_3,Topic_4,Topic_5
+1968,1993,1,Amor o Anhelo emocional,0.538563892,0.53856389,0.00740843,0.00741054,0.00740824,0.43920889
 acrostico,2024,1,Amor o Anhelo emocional,0.388330299,0.3883303,0.00229928,0.03043144,0.20132472,0.37761426
 Addicted To You,2010,4,Amor persistente y/o contradicciones,0.6000853,0.00392202,0.00392218,0.38814809,0.6000853,0.00392241
 Amarillo,2017,5,"Reflexión, crecimiento y amor trascendente",0.513554531,0.00281739,0.11275875,0.00281743,0.3680519,0.51355453
@@ -82,5 +83,6 @@ Tú,1998,5,"Reflexión, crecimiento y amor trascendente",0.887871687,0.09674154,
  Último Momento ,2024,1,Amor o Anhelo emocional,0.99316026,0.99316026,0.00171028,0.00170969,0.00170984,0.00170993
 Vuelve,1995,1,Amor o Anhelo emocional,0.890803717,0.89080372,0.09787363,0.00377421,0.00377402,0.00377442
  Waka Waka (Esto Es África) ,2010,1,Amor o Anhelo emocional,0.55368127,0.55368127,0.00512884,0.00512872,0.22424884,0.21181234
+
 
 
